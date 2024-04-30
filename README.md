@@ -4,5 +4,6 @@ This is a transnational data set which contains all the transactions occurring b
 kaggle datasets download -d carrie1/ecommerce-data
 ## Content
 1. Data cleaning: remove missing values, repetition, and anomaly
-2. recommend product bundles
+2. Data pattern analysis
 3. product price prediction
+(4.) recommend product bundles
