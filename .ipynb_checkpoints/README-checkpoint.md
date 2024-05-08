@@ -6,5 +6,5 @@ kaggle datasets download -d carrie1/ecommerce-data
 1. Data cleaning: remove missing values, repetition, and anomaly
 2. Data pattern analysis
 3. Daily sales quantity prediction
-4. Customer Segmentation
-(5.) recommend product bundles
+
+(4.) recommend product bundles
