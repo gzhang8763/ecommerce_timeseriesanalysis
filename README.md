@@ -6,5 +6,7 @@ kaggle datasets download -d carrie1/ecommerce-data
 1. Data cleaning: remove missing values, repetition, and anomaly
 2. Data pattern analysis
 3. Daily sales quantity prediction
-4. Customer Segmentation
-(5.) recommend product bundles
+4. Customer Segmentation (ongoing)
+5. recommend product bundles (ongoing)
+
+### Please note that the anchor links in *.ipynb do not work in github code preview mode. To enable those links, please run the code in jupyter notebook.
